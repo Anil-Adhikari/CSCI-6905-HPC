@@ -1,0 +1,12 @@
+
+Part 1:
+	file: RecursiveSummation.java
+
+	compile: --> javac RecursiveSummation.java
+	run:     --> java RecursiveSummation
+
+Part 2:
+	file: RadixSorting.java
+
+	compile: --> javac RadixSorting.java
+	run:     --> java RadixSorting Input.txt outputforparallel.txt outputforserial.txt
